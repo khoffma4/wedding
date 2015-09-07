@@ -234,3 +234,26 @@
         }
     }
 }
+
+
+h1 {
+  font-family: 'Rouge Script', cursive;
+  font-size: 42px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 18px;
+  text-align: center;
+}
+
+ul.navbar-nav {
+  float: none;
+  text-align: center;
+
+  li {
+    display: inline-block;
+    float: none
+  }
+}
