@@ -248,6 +248,10 @@ h2 {
   text-align: center;
 }
 
+.navbar {
+  margin-bottom: 0px;
+}
+
 ul.navbar-nav {
   float: none;
   text-align: center;
@@ -256,4 +260,14 @@ ul.navbar-nav {
     display: inline-block;
     float: none
   }
+}
+
+header {
+  text-align: center;
+  h1 { display: inline-block;}
+}
+
+img.heart {
+  vertical-align: bottom;
+  height: 72px
 }
